@@ -37,10 +37,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/dmitriipolushin/SSD
+$ git clone https://github.com/dmitriipolushin/SSD1
 
 # Access
-$ cd SSD
+$ cd SSD1
 
 # Run the program
 $ python3 lab1.py
